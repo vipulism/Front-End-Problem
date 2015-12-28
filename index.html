@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html ng-app="theApp">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <script src="js/angular.js"></script>
+    <script src="js/myapp.js"></script>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+    <div class="wrap">
+        <div ng-controller="myProducts">
+            <!-- <p>Sort Type: {{ sortType }}</p><br>  checking status  -->
+
+            <!-- sorting and filter -->
+            <button class="sort" ng-click="sortType = 'paymentId'; sortReverse = !sortReverse" ng-class="{'active':  sortType == 'paymentId'}">Payment ID</button>
+            <button class="sort" ng-click="sortType = 'orderDate'; sortReverse = !sortReverse" ng-class="{'active':  sortType == 'orderDate'}">OrderDate</button>
+            <button class="sort" ng-click="sortType = 'amount'; sortReverse = !sortReverse" ng-class="{'active':  sortType == 'amount'}">Amount</button>
+            <div class="filter">
+                Filter by Status
+                <select ng-model="status">
+                    <option selected value="">All</option>
+                    <option>Success</option>
+                    <option>Initiated</option>
+                    <option>Failed</option>
+                    <option>Refunded</option>
+                    <option>Dropped</option>
+                </select>
+            </div>
+            <div class="cl"></div>
+            <hr>
+            <!-- sorting and filter end-->
+            <!-- Product listing-->
+            <li ng-repeat="item in items | orderBy:sortType:sortReverse | filter:status  ">
+                <table class="table-fill">
+                    <tbody class="table-hover">
+                        <tr>
+                            <td class="text-left">Payment-Id</td>
+                            <td class="text-left"> {{ item.paymentId }}</td>
+                        </tr>
+                        <tr>
+                            <td class="text-left">Order Date</td>
+                            <td class="text-left">{{ item.orderDate }}</td>
+                        </tr>
+                        <tr>
+                            <td class="text-left">Merchat-Id</td>
+                            <td class="text-left"> {{ item.merchatId }}</td>
+                        </tr>
+                        <tr>
+                            <td class="text-left">Amount</td>
+                            <td class="text-left"> {{ item.amount }}</td>
+                        </tr>
+                        <tr>
+                            <td class="text-left">Email</td>
+                            <td class="text-left"> {{ item.customerEmail }}</td>
+                        </tr>
+                        <tr>
+                            <td class="text-left">Status</td>
+                            <td class="text-left" ng-class="{'Initiated':  item.paymentStatus === 'Initiated','Refunded':  item.paymentStatus === 'Refunded', 'Dropped':  item.paymentStatus === 'Dropped', 'Success':  item.paymentStatus === 'Success', 'Failed':  item.paymentStatus === 'Failed',  }">{{ item.paymentStatus }}</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </li>
+            <!-- Product listing-->
+        </div>
+    </div>
+</body>
+
+</html>

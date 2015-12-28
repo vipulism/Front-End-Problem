@@ -1,0 +1,88 @@
+ li{list-style: none;float: left; margin:0 20px  20px 0;}
+
+.wrap{margin: 0 auto;width: 945px;}
+.table-fill {border: 1px solid #666;
+  background: white;
+  border-radius:3px;
+  border-collapse: collapse;
+  height: 180px;
+  margin: auto;
+  padding:5px;
+  width: 30%;
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
+  animation: float 5s infinite;
+}
+ 
+   .Initiated{background: #FFDA95;}
+   .Failed{background:#FF8F8F;}
+   .Dropped{ background: #9C9CFF;}
+   .Success{background: #AFFFAF;}
+   .Refunded{ background: #FFFFB5;}
+         
+         .filter{ width: 210px;float: right;}  
+         .sort{float: left;margin-right: 10px;border: 1px solid #fff;outline: none}
+         .active{ border: 1px solid #000;}
+ .cl  {clear: both;}
+ 
+tr:first-child {
+  border-top:none;
+}
+
+tr:last-child {
+  border-bottom:none;
+}
+ 
+tr:nth-child(odd) td {
+  background:#EBEBEB;
+}
+ 
+ 
+tr:last-child td:first-child {
+  border-bottom-left-radius:3px;
+
+}
+ 
+tr:last-child td:last-child {
+  border-bottom-right-radius:3px;
+}
+ 
+td {
+  background:#FFFFFF;
+  padding:10px;
+  text-align:left;
+  vertical-align:middle;
+  font-weight:300;
+  font-size:14px;
+  text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1);
+  border-right: 1px solid #C1C3D1;
+  color: #444;font-family: arial;min-width: 90px;
+}
+
+td:last-child {
+  border-right: 0px;
+   min-width: 160px; 
+}
+
+th.text-left {
+  text-align: left;
+}
+
+th.text-center {
+  text-align: center;
+}
+
+th.text-right {
+  text-align: right;
+}
+
+td.text-left {
+  text-align: left;
+}
+
+td.text-center {
+  text-align: center;
+}
+
+td.text-right {
+  text-align: right;
+}
