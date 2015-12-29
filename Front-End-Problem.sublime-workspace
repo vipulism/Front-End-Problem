@@ -1,0 +1,1609 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"le",
+				"length	(index.html)"
+			],
+			[
+				"op",
+				"option	Tag"
+			],
+			[
+				"re",
+				"response	(myapp.js)"
+			],
+			[
+				"flip",
+				"flipInX	 style.css"
+			],
+			[
+				"inc",
+				"include	+include - Sass syntax"
+			],
+			[
+				"ma",
+				"margin	(3.3.css)"
+			],
+			[
+				"remo",
+				"remove〔function〕"
+			],
+			[
+				"pa",
+				"parent〔function〕"
+			],
+			[
+				"f",
+				"function"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"colo",
+				"color"
+			],
+			[
+				"vis",
+				"visibility: 〔property〕"
+			],
+			[
+				"po",
+				"pop	(LILLY_S_Global_Standalone_6.4.html)"
+			],
+			[
+				"pop",
+				"popup	(LILLY_S_Global_Standalone_6.4.html)"
+			],
+			[
+				"overflow-",
+				"overflow-y: 〔property〕"
+			],
+			[
+				"bs3",
+				"bs3-modal	bs3-modal"
+			],
+			[
+				"bs3-",
+				"bs3-panel	bs3-panel"
+			],
+			[
+				"bst",
+				"bs3-table	bs3-table"
+			],
+			[
+				"vi",
+				"visibility: 〔property〕"
+			],
+			[
+				"cl",
+				"class"
+			],
+			[
+				"c",
+				"class"
+			],
+			[
+				"tra",
+				"translate"
+			],
+			[
+				"ob",
+				"object	(BI_EMPAJardianceIVA_5.6.html)"
+			],
+			[
+				"fil",
+				"filter"
+			],
+			[
+				"fun",
+				"function〔keyword〕"
+			],
+			[
+				"ima",
+				"images/2.1.1"
+			],
+			[
+				"2",
+				"2.1"
+			],
+			[
+				"Fun",
+				"Function〔class〕"
+			],
+			[
+				"jq",
+				"jq.js"
+			],
+			[
+				"fon",
+				"font-size: 〔property〕"
+			],
+			[
+				"sty",
+				"style"
+			],
+			[
+				"if",
+				"ife	if … else"
+			],
+			[
+				"fu",
+				"fun	Function"
+			],
+			[
+				"name",
+				"name=〔attribute〕"
+			],
+			[
+				"js",
+				"data.json"
+			],
+			[
+				"al",
+				"alert('in"
+			],
+			[
+				"g",
+				"graph2.svg"
+			],
+			[
+				"aler",
+				"alert〔function〕"
+			],
+			[
+				"on",
+				"onload	Attr"
+			],
+			[
+				"in",
+				"input	(Introdia_screen_17.0.html)"
+			],
+			[
+				"cu",
+				"custom.js"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"tx",
+				"txt-bottom.png	w:884 h:233"
+			],
+			[
+				"ab",
+				"absolute"
+			],
+			[
+				"no",
+				"normal	(style.css)"
+			],
+			[
+				"styl",
+				"style"
+			],
+			[
+				"t",
+				"top-black-txt.jpg	w:1430 h:95"
+			],
+			[
+				"righ",
+				"right-txt.png	w:855 h:592"
+			],
+			[
+				"im",
+				"images/3.3"
+			],
+			[
+				"ra",
+				"ragular"
+			],
+			[
+				"te",
+				"text-indent: 〔property〕"
+			],
+			[
+				"cmm",
+				"comm-block	Comment - Block style comment"
+			],
+			[
+				"li",
+				"lighten	lighten()"
+			],
+			[
+				"bst-c",
+				"bst-carousel	bst-carousel"
+			],
+			[
+				"ta",
+				"tar	target=\"\""
+			],
+			[
+				"con",
+				"container"
+			],
+			[
+				"pro-details",
+				"pro-details-cart.png	w:1337 h:1901"
+			],
+			[
+				"PRO",
+				"pro-details.png	w:1335 h:1525"
+			],
+			[
+				"s",
+				"style	Attr"
+			],
+			[
+				"ba",
+				"background-size"
+			],
+			[
+				"ui-",
+				"ui-8-steps	ui-8-steps"
+			],
+			[
+				"ui",
+				"ui-form	ui-form"
+			],
+			[
+				"ui-drop",
+				"ui-dropdown-icon	ui-dropdown-icon"
+			],
+			[
+				"inde",
+				"index.png	w:1360 h:3574"
+			],
+			[
+				"pari",
+				"paritosh.html"
+			],
+			[
+				"z",
+				"spaze-logo.png	w:100 h:100"
+			],
+			[
+				"lg-",
+				"lg-logo.jpg	w:100 h:100"
+			],
+			[
+				"slider-",
+				"slider-neeraj.jpg	w:1360 h:580"
+			],
+			[
+				"ban",
+				"banner01.jpg	w:1360 h:580"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"fa-",
+				"fa-angle-left	 style.scss"
+			],
+			[
+				"bl",
+				"blog-img1.jpg	w:312 h:315"
+			],
+			[
+				"rel",
+				"relative"
+			],
+			[
+				"com",
+				"comm-html	Comment - HTML comment"
+			],
+			[
+				"do",
+				"dots.jpg	w:5 h:21"
+			],
+			[
+				"coun",
+				"countdown	(main.js)"
+			],
+			[
+				"remove",
+				"removeClass〔function〕"
+			],
+			[
+				"ce",
+				"center"
+			],
+			[
+				"for",
+				"formal_funky_live/"
+			],
+			[
+				"thmb",
+				"thmb-3d"
+			],
+			[
+				"index",
+				"indexOf"
+			],
+			[
+				"sibling",
+				"siblings"
+			],
+			[
+				"w",
+				"while	while …"
+			],
+			[
+				"border",
+				"border-box"
+			],
+			[
+				"sta",
+				"static"
+			],
+			[
+				"mak",
+				"mark	 element"
+			],
+			[
+				"mq",
+				"mq	media Query (bootstrap)"
+			],
+			[
+				"md",
+				"md-${1:max"
+			],
+			[
+				"dar",
+				"dark"
+			],
+			[
+				"media",
+				"@media	@media ${1:screen} {\n	${0}\n}"
+			],
+			[
+				"inner",
+				"innerHTML"
+			],
+			[
+				"fin",
+				"find"
+			],
+			[
+				"gete",
+				"getElementById"
+			],
+			[
+				"comm",
+				"comm-section	Comment - Full section comment"
+			],
+			[
+				"fade",
+				"fadeIn"
+			],
+			[
+				"form-",
+				"form-control	 style.scss"
+			],
+			[
+				"width",
+				"width=\"100"
+			],
+			[
+				"defu",
+				"default"
+			],
+			[
+				"def",
+				"default"
+			],
+			[
+				"ov",
+				"overflow"
+			],
+			[
+				"l",
+				"lighten	lighten()"
+			],
+			[
+				"float",
+				"float:left"
+			],
+			[
+				"btn",
+				"btn99	 style.scss"
+			],
+			[
+				"de",
+				"default	!default"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"margin",
+				"marginLeft"
+			],
+			[
+				"clo",
+				"closeAllRightMenu"
+			],
+			[
+				"car",
+				"cart_query"
+			],
+			[
+				"slide",
+				"slider"
+			],
+			[
+				"mo",
+				"mobilediv"
+			],
+			[
+				"cnta",
+				"contact"
+			],
+			[
+				"paren",
+				"parents"
+			],
+			[
+				"asd",
+				"ncurses_assume_default_colors"
+			],
+			[
+				"va",
+				"var"
+			],
+			[
+				"el",
+				"else"
+			],
+			[
+				"mix",
+				"mix	mix()"
+			],
+			[
+				"click",
+				"clicked"
+			],
+			[
+				"doc",
+				"document"
+			],
+			[
+				"has",
+				"hasClass"
+			],
+			[
+				"bor",
+				"border-box"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"bo",
+				"border-box"
+			],
+			[
+				"text",
+				"textarea"
+			],
+			[
+				"form",
+				"form-control	 style.scss"
+			],
+			[
+				"e",
+				"else"
+			],
+			[
+				"to",
+				"toggle"
+			],
+			[
+				"hi",
+				"hide	 style.scss"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 3637,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "myapp.js",
+			"settings":
+			{
+				"buffer_size": 309,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/style.css",
+			"settings":
+			{
+				"buffer_size": 1733,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"snippet: ",
+				"Snippet: @if"
+			],
+			[
+				"pa",
+				"Package Control: List Packages"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"INSTA",
+				"Package Control: Install Package"
+			],
+			[
+				"next",
+				"Clipboard Manager: Next"
+			],
+			[
+				"clip",
+				"Clipboard Manager: Next"
+			],
+			[
+				"snioo",
+				"Snippet: +++ Shortcut to @import"
+			],
+			[
+				"s",
+				"Set Syntax: SCSS"
+			],
+			[
+				"filde",
+				"FileDiffs: Menu"
+			],
+			[
+				"di",
+				"FileDiffs: Menu"
+			],
+			[
+				"diff",
+				"FileDiffs: Menu"
+			],
+			[
+				"list pa",
+				"Package Control: List Packages"
+			],
+			[
+				"intall",
+				"Package Control: Install Package"
+			],
+			[
+				"paca",
+				"Package Control: List Packages"
+			],
+			[
+				"pack li",
+				"Package Control: List Packages"
+			],
+			[
+				"packa",
+				"Preferences: Browse Packages"
+			],
+			[
+				"pacage",
+				"Package Control: List Packages"
+			],
+			[
+				"#",
+				"Snippet: #!/usr/bin/env"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"insatll",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 536.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/projects/Vipul/Frunt end/frontend"
+	],
+	"file_history":
+	[
+		"/D/projects/Vipul/Frunt end/frontend/frontEndProblem.json",
+		"/D/projects/Vipul/Frunt end/frontend/README.md",
+		"/D/projects/Vipul/Frunt end/frontend/FrontEndProblem_txn_rslts.json",
+		"/D/projects/Vipul/Frunt end/frontend/js/MyitemShow.js",
+		"/D/projects/Vipul/MyAngular/js/myapp.js",
+		"/D/projects/Vipul/MyAngular/index.html",
+		"/D/projects/Vipul/www/ng-app/document/index.html",
+		"/D/projects/Vipul/Frunt end/frontend/js/myapp.js",
+		"/D/projects/Vipul/Frunt end/frontend/css/style.css",
+		"/D/projects/Vipul/loginpopup.php",
+		"/D/projects/Sales Force/Lilly/JARDIANCE - SYNJARDY GLOBAL/LILLY_JS_Global_Combine_6.0/LILLY_JS_Global_Combine_6.0.html",
+		"/D/projects/Sales Force/Lilly/JARDIANCE - SYNJARDY GLOBAL/LILLY_JS_Global_Combine_6.0/css/2.1.css",
+		"/D/projects/Sales Force/Lilly/JARDIANCE - SYNJARDY GLOBAL/LILLY_JS_Global_Combine_6.2/css/2.1.1.css",
+		"/D/projects/Sales Force/Lilly/JARDIANCE - SYNJARDY GLOBAL/LILLY_JS_Global_Combine_5.5/LILLY_JS_Global_Combine_5.5.html",
+		"/D/projects/Sales Force/Lilly/JARDIANCE - SYNJARDY GLOBAL/LILLY_JS_Global_Combine_5.4/LILLY_JS_Global_Combine_5.4.html",
+		"/D/projects/Sales Force/Lilly/lily_combine_global/LILLY_JS_Global_Combine_5.3/LILLY_JS_Global_Combine_5.3.html",
+		"/D/projects/Sales Force/Lilly/lily_combine_global/LILLY_JS_Global_Combine_5.2/LILLY_JS_Global_Combine_5.2.html",
+		"/D/projects/Sales Force/Lilly/lily_combine_global/LILLY_JS_Global_Combine_5.1/LILLY_JS_Global_Combine_5.1.html",
+		"/D/projects/Sales Force/Lilly/lily_combine_global/LILLY_JS_Global_Combine_4.0/LILLY_JS_Global_Combine_4.0.html",
+		"/D/projects/Sales Force/Lilly/lily_combine_global/LILLY_JS_Global_Combine_3.3/LILLY_JS_Global_Combine_3.3.html",
+		"/D/projects/Sales Force/Lilly/lily_combine_global/LILLY_JS_Global_Combine_3.2/LILLY_JS_Global_Combine_3.2.html",
+		"/D/projects/Sales Force/Lilly/lily_combine_global/LILLY_JS_Global_Combine_3.1/LILLY_JS_Global_Combine_3.1.html",
+		"/D/projects/Sales Force/Lilly/lily_combine_global/LILLY_JS_Global_Combine_2.3/LILLY_JS_Global_Combine_2.3.html",
+		"/D/projects/Sales Force/Lilly/JARDIANCE - SYNJARDY GLOBAL/LILLY_JS_Global_Combine_5.6/LILLY_JS_Global_Combine_5.6.html",
+		"/D/projects/Sales Force/Lilly/JARDIANCE - SYNJARDY GLOBAL/LILLY_JS_Global_Combine_6.6/LILLY_JS_Global_Combine_6.6.html",
+		"/D/projects/Sales Force/Lilly/lily_combine_global/LILLY_JS_Global_Combine_0.5/LILLY_JS_Global_Combine_0.5.html",
+		"/D/projects/Sales Force/Lilly/lily_combine_global/LILLY_JS_Global_Combine_2.1/LILLY_JS_Global_Combine_2.1.html",
+		"/D/projects/Sales Force/Lilly/lily_combine_global/LILLY_JS_Global_Combine_2.2/LILLY_JS_Global_Combine_2.2.html",
+		"/D/projects/Sales Force/Lilly/JARDIANCE - SYNJARDY GLOBAL/LILLY_JS_Global_Combine_5.5/css/5.5.css",
+		"/D/projects/Sales Force/Lilly/JARDIANCE - SYNJARDY GLOBAL/LILLY_JS_Global_Combine_5.6/css/5.4.css",
+		"/D/projects/Sales Force/Lilly/JARDIANCE - SYNJARDY GLOBAL/LILLY_JS_Global_Combine_6.2/LILLY_JS_Global_Combine_6.2.html",
+		"/D/projects/Sales Force/Lilly/JARDIANCE - SYNJARDY GLOBAL/LILLY_JS_Global_Combine_5.4/css/5.3.css",
+		"/D/projects/Sales Force/Lilly/JARDIANCE - SYNJARDY GLOBAL/LILLY_JS_Global_Combine_5.4/svg/pop2-op.svg",
+		"/D/projects/Sales Force/Lilly/JARDIANCE - SYNJARDY GLOBAL/LILLY_JS_Global_Combine_5.4/svg/pop1-op.svg",
+		"/D/projects/Sales Force/Lilly/lily_combine_global/LILLY_JS_Global_Combine_5.3/graph/graph-2.svg",
+		"/D/projects/Sales Force/Lilly/lily_combine_global/LILLY_JS_Global_Combine_5.3/graph/graph-3.svg",
+		"/D/projects/Sales Force/Lilly/lily_combine_global/LILLY_JS_Global_Combine_5.2/graph/graph-2.svg",
+		"/D/projects/Sales Force/Lilly/lily_combine_global/LILLY_JS_Global_Combine_5.2/graph/graph-4.svg",
+		"/D/projects/Sales Force/Lilly/lily_combine_global/LILLY_JS_Global_Combine_5.2/graph/graph-3.svg",
+		"/D/projects/Sales Force/Lilly/lily_combine_global/LILLY_JS_Global_Combine_5.2/graph/graph-1.svg",
+		"/D/projects/Sales Force/Lilly/lily_combine_global/LILLY_JS_Global_Combine_2.3/graph/graph-2.svg",
+		"/D/projects/Sales Force/Lilly/lily_combine_global/LILLY_JS_Global_Combine_2.3/graph/graph-4.svg",
+		"/D/projects/Sales Force/Lilly/lily_combine_global/LILLY_JS_Global_Combine_2.3/graph/graph-3.svg",
+		"/D/projects/Sales Force/Lilly/lily_combine_global/LILLY_JS_Global_Combine_2.2/graph/graph-2.svg",
+		"/D/projects/Sales Force/Lilly/lily_combine_global/LILLY_JS_Global_Combine_2.2/css/2.2.css",
+		"/D/projects/Sales Force/Lilly/lily_combine_global/LILLY_JS_Global_Combine_2.2/graph/graph-4.svg",
+		"/D/projects/Sales Force/Lilly/lily_combine_global/LILLY_JS_Global_Combine_2.2/graph/graph-3.svg",
+		"/D/projects/Sales Force/Lilly/lily_combine_global/LILLY_JS_Global_Combine_2.2/graph/graph-1.svg",
+		"/D/projects/Sales Force/Lilly/lily_combine_global/LILLY_JS_Global_Combine_2.1/LILLY_JS_Global_Combine_2.1.html.bak",
+		"/D/projects/Sales Force/Lilly/JARDIANCE - SYNJARDY GLOBAL/LILLY_JS_Global_Combine_6.5/LILLY_JS_Global_Combine_6.5.html",
+		"/D/projects/Sales Force/Lilly/JARDIANCE - SYNJARDY GLOBAL/LILLY_JS_Global_Combine_6.3/LILLY_JS_Global_Combine_6.3.html",
+		"/D/projects/Sales Force/Lilly/JARDIANCE - SYNJARDY GLOBAL/LILLY_JS_Global_Combine_6.4/LILLY_JS_Global_Combine_6.4.html",
+		"/D/projects/Sales Force/Lilly/JARDIANCE - SYNJARDY GLOBAL/LILLY_JS_Global_Combine_6.1/LILLY_JS_Global_Combine_6.1.html",
+		"/D/projects/Sales Force/Lilly/JARDIANCE - SYNJARDY GLOBAL/LILLY_JS_Global_Combine_5.4/svg/main-op.svg",
+		"/D/projects/Sales Force/Lilly/lily_combine_global/LILLY_JS_Global_Combine_2.3/graph/graph-1.svg",
+		"/D/projects/Sales Force/Lilly/lily_combine_global/LILLY_JS_Global_Combine_2.3/css/2.3.css",
+		"/D/projects/Sales Force/Lilly/lily_combine_global/LILLY_JS_Global_Combine_5.3/graph/graph-1.svg",
+		"/D/projects/Sales Force/Lilly/lily_combine_global/LILLY_JS_Global_Combine_5.3/css/5.3.css",
+		"/D/projects/Sales Force/Lilly/lily_combine_global/LILLY_JS_Global_Combine_2.1/css/2.1.css",
+		"/D/projects/Sales Force/Lilly/lily_combine_global/LILLY_JS_Global_Combine_2.1/graph/graph-2.svg",
+		"/D/projects/Sales Force/Lilly/lily_combine_global/LILLY_JS_Global_Combine_2.1/graph/graph-1.svg",
+		"/D/projects/Sales Force/Lilly/lily_combine_global/LILLY_JS_Global_Combine_0.0/LILLY_JS_Global_Combine_0.0.html",
+		"/D/projects/Sales Force/Lilly/JARDIANCE - SYNJARDY GLOBAL/LILLY_JS_Global_Combine_6.1/css/0.0.css",
+		"/D/projects/Sales Force/Lilly/JARDIANCE - SYNJARDY GLOBAL/LILLY_JS_Global_Combine_6.3/css/3.3.css",
+		"/D/projects/Sales Force/Lilly/JARDIANCE - SYNJARDY GLOBAL/LILLY_JS_Global_Combine_6.4/css/3.3.css",
+		"/D/projects/Sales Force/Lilly/JARDIANCE - SYNJARDY GLOBAL/LILLY_JS_Global_Combine_6.5/css/0.0.css",
+		"/D/projects/Sales Force/Lilly/JARDIANCE - SYNJARDY GLOBAL/LILLY_JS_Global_Combine_6.6/css/0.0.css",
+		"/D/projects/Sales Force/Lilly/JARDIANCE - SYNJARDY GLOBAL/LILLY_JS_Global_Combine_6.7/css/0.0.css",
+		"/D/projects/Sales Force/Lilly/lily_combine_global/LILLY_JS_Global_Combine_0.0/css/0.0.css",
+		"/D/projects/Sales Force/Lilly/lily_combine_global/LILLY_JS_Global_Combine_5.1/css/5.1.css",
+		"/D/projects/Sales Force/BI/JARDIANCE - SYNJARDY GLOBAL/HTML/BI_EMPAJardianceIVA_2.2/graph/graph-1.svg",
+		"/D/projects/Sales Force/Lilly/lily_combine_global/LILLY_JS_Global_Combine_1.0/LILLY_JS_Global_Combine_1.0.html",
+		"/D/projects/Sales Force/Lilly/lily_combine_global/LILLY_JS_Global_Combine_0.5/css/0.0.css",
+		"/D/projects/discernblog/bower_components/wow/demo.html",
+		"/D/projects/discernblog/css/style.scss",
+		"/D/projects/discernblog/css/style.css",
+		"/D/projects/discernblog/css/style-old.scss",
+		"/D/projects/discernblog/template.php",
+		"/D/projects/discernblog/.gitignore",
+		"/D/projects/animate-scss/main.css",
+		"/D/projects/animate-scss/index.html",
+		"/D/projects/animate-scss/main.scss",
+		"/C/Users/vipul.sharma/Desktop/pre loader/index.html",
+		"/C/Users/vipul.sharma/Desktop/pre loader/script/script.js",
+		"/D/projects/skrollr/src/skrollr.js",
+		"/D/projects/Sales Force/Lilly/JARDIANCE - SYNJARDY GLOBAL/LILLY_JS_Global_Combine_6.2/svg/left-op.svg",
+		"/D/projects/Sales Force/Lilly/JARDIANCE - SYNJARDY GLOBAL/LILLY_JS_Global_Combine_6.2/images/graph-blue.svg",
+		"/D/projects/Sales Force/Lilly/JARDIANCE - SYNJARDY GLOBAL/LILLY_JS_Global_Combine_5.6/svg/pop3-op.svg",
+		"/D/projects/Sales Force/Lilly/old/LILLY_JS_EASD_Combine/LILLY_JS_EASD_Combine_0.0/LILLY_JS_EASD_Combine_0.0.html",
+		"/D/projects/Sales Force/Lilly/SYNJARDY GLOBAL/LILLY_S_Global_Standalone_6.5/LILLY_S_Global_Standalone_6.5.html",
+		"/C/Users/vipul.sharma/Desktop/new.html",
+		"/D/wamp/www/Vipul/MyAngular/json.php",
+		"/D/wamp/www/Vipul/MyAngular/insert.php",
+		"/D/wamp/www/Vipul/MyAngular/delete.php",
+		"/D/wamp/www/Vipul/MyAngular/js/myapp.js",
+		"/D/wamp/www/Vipul/MyAngular/index.html",
+		"/D/wamp/www/Vipul/MyAngular/js/MyitemShow.js",
+		"/D/wamp/www/Vipul/MyAngular/err.html",
+		"/D/projects/Sales Force/BI/JARDIANCE - SYNJARDY GLOBAL/HTML/BI_EMPAJardianceIVA_5.4/css/5.3.css",
+		"/D/projects/Sales Force/BI/JARDIANCE - SYNJARDY GLOBAL/HTML/BI_EMPAJardianceIVA_5.5/css/5.5.css",
+		"/D/projects/Sales Force/BI/JARDIANCE - SYNJARDY GLOBAL/HTML/BI_EMPAJardianceIVA_6.0/css/2.1.css",
+		"/D/projects/Sales Force/BI/JARDIANCE - SYNJARDY GLOBAL/HTML/BI_EMPAJardianceIVA_6.1/css/0.0.css",
+		"/D/projects/Sales Force/BI/JARDIANCE - SYNJARDY GLOBAL/HTML/BI_EMPAJardianceIVA_6.2/css/2.1.1.css",
+		"/D/projects/Sales Force/BI/JARDIANCE - SYNJARDY GLOBAL/HTML/BI_EMPAJardianceIVA_6.3/css/3.3.css",
+		"/D/projects/Sales Force/BI/JARDIANCE - SYNJARDY GLOBAL/HTML/BI_EMPAJardianceIVA_6.4/css/3.3.css",
+		"/D/projects/Sales Force/BI/JARDIANCE - SYNJARDY GLOBAL/HTML/BI_EMPAJardianceIVA_6.5/css/0.0.css",
+		"/D/projects/Sales Force/BI/JARDIANCE - SYNJARDY GLOBAL/HTML/BI_EMPAJardianceIVA_6.6/css/0.0.css",
+		"/D/projects/Sales Force/BI/JARDIANCE - SYNJARDY GLOBAL/HTML/nishant/BI_EMPAJardianceIVA_0.0/css/0.0.css",
+		"/D/projects/Sales Force/BI/JARDIANCE - SYNJARDY GLOBAL/HTML/nishant/BI_EMPAJardianceIVA_0.5/css/0.0.css",
+		"/D/projects/Sales Force/BI/JARDIANCE - SYNJARDY GLOBAL/HTML/nishant/BI_EMPAJardianceIVA_1.0/css/1.0.css",
+		"/D/projects/Sales Force/BI/JARDIANCE - SYNJARDY GLOBAL/HTML/nishant/BI_EMPAJardianceIVA_3.2/css/3.2.css",
+		"/D/projects/Sales Force/BI/JARDIANCE - SYNJARDY GLOBAL/HTML/nishant/BI_EMPAJardianceIVA_3.3/css/3.3.css",
+		"/D/projects/Sales Force/BI/JARDIANCE - SYNJARDY GLOBAL/HTML/nishant/BI_EMPAJardianceIVA_4.0/css/4.0.css",
+		"/D/projects/Sales Force/BI/JARDIANCE - SYNJARDY GLOBAL/HTML/BI_EMPAJardianceIVA_5.6/css/5.4.css",
+		"/D/projects/Sales Force/BI/JARDIANCE - SYNJARDY GLOBAL/HTML/BI_EMPAJardianceIVA_5.6/svg/main-op.svg",
+		"/D/projects/Sales Force/BI/JARDIANCE - SYNJARDY GLOBAL/HTML/BI_EMPAJardianceIVA_5.5/BI_EMPAJardianceIVA_5.5.html",
+		"/D/projects/Sales Force/BI/JARDIANCE - SYNJARDY GLOBAL/HTML/BI_EMPAJardianceIVA_5.6/BI_EMPAJardianceIVA_5.6.html",
+		"/D/wamp/www/BI/5.6/svg/main-op.svg",
+		"/D/projects/Sales Force/BI/JARDIANCE - SYNJARDY GLOBAL/HTML/BI_EMPAJardianceIVA_5.4/svg/main-op.svg",
+		"/D/projects/Sales Force/BI/JARDIANCE - SYNJARDY GLOBAL/HTML/BI_EMPAJardianceIVA_5.4/BI_EMPAJardianceIVA_5.4.html",
+		"/D/projects/Sales Force/BI/JARDIANCE - SYNJARDY GLOBAL/HTML/BI_EMPAJardianceIVA_5.4/BI_EMPAJardianceIVA_5.4-full.jpg",
+		"/D/projects/Sales Force/BI/JARDIANCE - SYNJARDY GLOBAL/HTML/BI_EMPAJardianceIVA_5.5/svg/main-op.svg",
+		"/D/projects/Sales Force/BI/JARDIANCE - SYNJARDY GLOBAL/HTML/BI_EMPAJardianceIVA_6.2/BI_EMPAJardianceIVA_6.2.html",
+		"/D/projects/Sales Force/BI/JARDIANCE - SYNJARDY GLOBAL/HTML/nishant/BI_EMPAJardianceIVA_5.2/css/2.1.1.css",
+		"/D/projects/Sales Force/BI/JARDIANCE - SYNJARDY GLOBAL/HTML/nishant/BI_EMPAJardianceIVA_5.2/BI_EMPAJardianceIVA_5.2.html",
+		"/D/projects/Sales Force/BI/JARDIANCE - SYNJARDY GLOBAL/HTML/nishant/BI_EMPAJardianceIVA_5.3/BI_EMPAJardianceIVA_5.3.html",
+		"/D/projects/Sales Force/BI/JARDIANCE - SYNJARDY GLOBAL/HTML/nishant/BI_EMPAJardianceIVA_5.3/css/5.3.css",
+		"/D/projects/Sales Force/BI/JARDIANCE - SYNJARDY GLOBAL/HTML/nishant/BI_EMPAJardianceIVA_2.1/css/2.1.css"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 200.0,
+		"where_history":
+		[
+			"D:\\projects\\Sales Force\\Lilly\\lily_combine_global,D:\\projects\\Sales Force\\Lilly\\JARDIANCE - SYNJARDY GLOBAL,,*.html",
+			"D:\\projects\\Sales Force\\Lilly\\lily_combine_global,D:\\projects\\Sales Force\\Lilly\\JARDIANCE - SYNJARDY GLOBAL,-*.ttf",
+			"D:\\projects\\Sales Force\\Lilly\\lily_combine_global,D:\\projects\\Sales Force\\Lilly\\JARDIANCE - SYNJARDY GLOBAL",
+			"",
+			"D:\\projects\\Sales Force\\Lilly\\JARDIANCE - SYNJARDY GLOBAL",
+			"D:\\projects\\Sales Force\\BI\\JARDIANCE - SYNJARDY GLOBAL\\HTML\\",
+			"D:\\projects\\Sales Force\\BI\\JARDIANCE - SYNJARDY GLOBAL\\HTML\\nishant",
+			"D:\\projects\\Sales Force\\BI\\JARDIANCE - SYNJARDY GLOBAL\\HTML",
+			"D:\\projects\\Sales Force\\Lilly\\JARDIANCE - SYNJARDY GLOBAL",
+			"D:\\projects\\Sales Force\\BI\\JARDIANCE - SYNJARDY GLOBAL\\HTML",
+			"D:\\projects\\Sales Force\\BI\\BI_JS_GLOBAL_Standalone\\HTML",
+			"D:\\projects\\Sales Force\\BI\\JARDIANCE - SYNJARDY GLOBAL\\HTML",
+			"D:\\projects\\Sales Force\\Lilly\\SYNJARDY GLOBAL",
+			"D:\\projects\\Sales Force\\BI\\JARDIANCE - SYNJARDY GLOBAL\\HTML",
+			"D:\\projects\\Sales Force\\Idetailer\\21Sept\\idetailer\\102-151 - Vipul",
+			"D:\\projects\\Sales Force\\survey_ipf_042015\\survey_ipf_042015",
+			"D:\\projects\\Sales Force\\Idetailer\\edit",
+			"D:\\projects\\Sales Force\\Introdia\\13th sept",
+			"D:\\projects\\Sales Force\\BI\\JARDIANCE - SYNJARDY GLOBAL\\HTML",
+			"D:\\projects\\Sales Force\\BI\\BI_JS_GLOBAL_Standalone\\HTML",
+			"D:\\projects\\Sales Force\\Introdia\\html",
+			"D:\\projects\\Sales Force\\Introdia\\html\\open",
+			"D:\\projects\\Sales Force\\Introdia\\html\\",
+			"D:\\projects\\Sales Force\\Introdia\\html\\Introdia_screen_2.0",
+			"",
+			"D:\\projects\\Sales Force\\Introdia\\html",
+			"D:\\projects\\Sales Force\\27th aug 15 -amit\\LILLY_JS_EASD_Combine",
+			"D:\\projects\\Sales Force\\27th aug 15 -amit\\LILLY_S_EASD_STANDALONE",
+			"D:\\projects\\Sales Force\\27th aug 15 -amit\\LILLY_JS_Global_Combine",
+			"D:\\projects\\Sales Force\\27th aug 15 -amit\\BI_S_EASD_Standalone",
+			"D:\\projects\\Sales Force\\27th aug 15 -amit\\BI_JS_EASD_Combine",
+			"D:\\www\\DG Fencing\\DG Fencing(21st July 12)",
+			"D:\\www\\formalFunky\\jade",
+			"C:\\Users\\vipul\\Desktop\\New folder",
+			"D:\\css"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"t.",
+			"90px",
+			"item.paymentStatus",
+			" sortReverse = !sortReverse\"",
+			"div",
+			"OrderId",
+			"test",
+			"Initiated",
+			"320px",
+			"li",
+			"x",
+			": '",
+			"Initiated",
+			"items",
+			"names",
+			"item",
+			"paymentStatus",
+			"';",
+			" htmlcontent2 += '",
+			"htmlcontent2 += '",
+			"onclick=\"return onclick=\"return LoginSub2('+temp+');\"",
+			"';",
+			"htmlcontent2 += '",
+			"content",
+			"check()",
+			"check",
+			"script",
+			"enterlogin",
+			"api.js",
+			"https://www.google.com/recaptcha/api.js",
+			"recaptcha",
+			"enterlogin()",
+			"enterlogin();",
+			"popup-wrap",
+			"references",
+			"References",
+			"references",
+			"footer_references",
+			"study",
+			"DISA",
+			"1011",
+			"–",
+			"13",
+			"17",
+			"-1px 5px 12px rgba(0,0,0,.4)",
+			" -1px 5px 12px rgba(0,0,0,.4)",
+			"url(#SVGID_3_)",
+			"-1px 5px 12px rgba(0,0,0,.4)",
+			"0",
+			"220",
+			"210",
+			"graph3",
+			"D<em>iabetes",
+			"L<em>ancet Diabetes",
+			"<div class=\"pop-content references\"><!-- graph or text choise -->\n      <h3>references</h3>\n      <ul>\n        <li> <span>1</span>\n          <p> Roden M, Weng J, Eilbracht J, et al. Empagliflozin monotherapy with sitagliptin as an active comparator in patients with type 2 diabetes: a randomised, double-blind, placebo-controlled, phase 3 trial. Lancet Diabetes Endocrinol. 2013;1:208-219.  </p>\n        </li>\n        <li> <span>2</span>\n          <p>Häring HU, Merker L, Seewaldt-Becker E, et al. Empagliflozin as add-on to metformin in patients with type 2 diabetes: a 24-week, <br>\nrandomized, double-blind, placebo-controlled trial. Diabetes Care. 2014;37:1650-1659.</p>\n        </li>\n        <li> <span>3</span>\n          <p>Häring HU, Merker L, Seewaldt-Becker E, et al. Empagliflozin as add-on to metformin plus sulfonylurea in patients with type 2 diabetes:<br>\n a 24-week, randomized, double-blind, placebo-controlled trial. Diabetes Care. 2013;36:3396-3404. </p>\n        </li>\n        <li> <span>4</span>\n          <p>Rosenstock J, Jelaska A, Kim G, et al. Empagliflozin as add-on to basal insulin for 78 weeks improves glycaemic control with weight loss<br>\n            in insulin-treated type 2 diabetes. Poster presented at 49th Annual Meeting of the European Association for the Study of Diabetes; <br>\n            Sept. 23-27, 2013; Barcelona, Spain.</p>\n        </li>\n        <li> <span>5</span>\n          <p>JARDIANCE [summary of product characteristics]. Ingelheim am Rhein, Germany: Boehringer Ingelheim Pharmaceuticals, GmbH; 2014. </p>\n        </li>\n        <li> <span>6</span>\n          <p>Kim G, Gerich J, Salsali A, et al. Empagliflozin increases genital infections but not urinary tract infections (UTIs) in pooled data from four pivotal phase III trials. Poster presented at 73rd Scientific Session of American Diabetes Association; June 21-25, 2013; Chicago, IL. </p>\n        </li>\n        <li> <span>7</span>\n          <p>Data on File. Boehringer Ingelheim Pharmaceuticals, GmbH; 2014.\n          </p>\n        </li>\n        <li> <span>8</span>\n          <p>DeFronzo RA, Davidson JA, Del Prato S. The role of the kidneys in glucose homeostasis: a new path towards normalizing glycaemia.<br>\n<em> Diabetes Obes Metab.</em> 2012;14:5-14. </p>\n        </li>\n        <li> <span>9</span>\n          <p>Merker L, Lund SS, Hantel S, et al. Abstract on pooled phase III data on target patient sub-group. Presented at 74th Scientific Session of American Diabetes Association; June 13–17, 2014; San Francisco, CA.</p>\n        </li>\n        \n          <li> <span>10</span>\n          <p>Ridderstråle M, Andersen KR, Zeller C, et al. Comparison of empagliflozin and glimepiride as add-on to metformin in patients with type 2 diabetes: a 104-week randomised, active-controlled, double-blind, phase 3 trial. <em>Lancet Diabetes Endocrinol</em>. Published online June 16, 2014. <br>\nhttp://dx.doi.org/10.1016/S2213-8587(14)70120-2.</p>\n        </li>\n          <li> <span>11</span>\n          <p>Ridderstråle M, Andersen KR, Zeller C, et al. Comparison of empagliflozin and glimepiride as add-on to metformin in patients with type 2 <br>\ndiabetes: a 104-week randomised, active-controlled, double-blind, phase 3 trial. <em>Lancet Diabetes Endocrinol</em>. Published online June 16, 2014.<br>\n http://dx.doi.org/10.1016/S2213-8587(14)70120-2.Supplementary Appendix, p1–21.</p>\n        </li>\n         <li> <span>12</span>\n          <p>SYNJARDY [summary of product characteristics]. Ingelheim am Rhein, Germany: Boehringer Ingelheim Pharmaceuticals, GmbH; 2015.</p>\n        </li>\n        \n        <li> <span>13</span>\n          <p>GLUCOPHAGE [summary of product characteristics]. 2001.</p>\n        </li>\n      </ul>\n    </div>",
+			"–",
+			"i",
+			"i>",
+			"lanct",
+			"SVGID_3_",
+			"bg-gradient",
+			"f2",
+			".graph-1-shadow",
+			"footer .synjardy-logo a{float:left;width:100%;height:65px;background: url(../images/synjardy-logo.png) no-repeat 0 0;background-size:107px auto;}",
+			"footer .synjardy-logo{position:absolute;left:48px;bottom:5px;width:107px;}",
+			"stud",
+			"kg/m",
+			"Demonstrated in a 4-week",
+			"34.593,35.095 19.442,35.397 17.548,22.172 35.757,22.172",
+			"refe",
+			".3s",
+			"arrow",
+			"Up",
+			"fadeInDown",
+			"\"1s\"",
+			"1.5s",
+			"Big",
+			"1s",
+			"data-wow-offset=\"500\"",
+			"1500ms",
+			"animate",
+			"wow",
+			"WOW",
+			"wow",
+			"blog_right blog_margin",
+			"s,",
+			"img ",
+			"),",
+			")",
+			"75px",
+			"150px",
+			"animations",
+			"url(../images/active-ref.jpg) no-repeat 14px 3px/100% auto",
+			"logo",
+			"url(../images/active-ref.jpg) no-repeat 14px 4px/100% auto",
+			"1078",
+			"polyfillRAF",
+			"requestAnimFrame",
+			"twitter",
+			"_scrollAnimation",
+			"_render",
+			"#wrapper #content .cornerTxt {\n	color: #707070;\n	font-family: Arial, Sans-serif;\n	font-size: 14px;\n	letter-spacing: -.5px;\n	font-weight: 700;\n	position: absolute;\n	right: 29px;\n	top: 48px",
+			"#wrapper #content .cornerTxt {",
+			"#wrapper #content .cornerTxt",
+			"pill",
+			"1456",
+			".last span",
+			".last",
+			"SVGID_1_",
+			"SVGID_2_",
+			"SVGID_3_",
+			"filter",
+			"F2",
+			"f2",
+			"filt",
+			"187",
+			"SYNJARDY",
+			"footer .synjardy-logo{position:absolute;left:48px;bottom:0px;width:107px;}",
+			"header nav ul>li:nth-child(7) a p {\n	padding-top: 11px;\n    \n	padding-left: 47px;\n}",
+			"footer .synjardy-logo{position:absolute;left:48px;bottom:0px;width:107px;}",
+			"<li class=\"aditional\">\n            <a href=\"6.6.html\">\n            <img class=\"moa\" src=\"images/6.png\" />\n            <span></span>\n            <p>MOA</p>    \n            </a>",
+			"Additional Information",
+			"<li class=\"aditional\">\n            <a href=\"6.6.html\">\n            <img class=\"moa\" src=\"images/6.png\" />\n            <span></span>\n            <p>MOA</p>    \n            </a>",
+			"Study Design",
+			"rgba(0,0,0,.4)",
+			"187",
+			"21",
+			"187"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"-",
+			"<em>Diabetes",
+			"<em>Lancet Diabetes",
+			"<div class=\"pop-content references\"><!-- graph or text choise -->\n      <h3>references</h3>\n      <ul>\n        <li> <span>1</span>\n          <p> Roden M, Weng J, Eilbracht J, et al. Empagliflozin monotherapy with sitagliptin as an active comparator in patients with type 2 diabetes: a randomised, double-blind, placebo-controlled, phase 3 trial.<em> Lancet Diabetes Endocrinol</em>. 2013;1:208-219.  </p>\n        </li>\n        <li> <span>2</span>\n          <p>Häring HU, Merker L, Seewaldt-Becker E, et al. Empagliflozin as add-on to metformin in patients with type 2 diabetes: a 24-week, <br>\nrandomized, double-blind, placebo-controlled trial. <em>Diabetes Care</em>. 2014;37:1650-1659.</p>\n        </li>\n        <li> <span>3</span>\n          <p>Häring HU, Merker L, Seewaldt-Becker E, et al. Empagliflozin as add-on to metformin plus sulfonylurea in patients with type 2 diabetes:<br>\n a 24-week, randomized, double-blind, placebo-controlled trial. <em>Diabetes Care</em>. 2013;36:3396-3404. </p>\n        </li>\n        <li> <span>4</span>\n          <p>Rosenstock J, Jelaska A, Kim G, et al. Empagliflozin as add-on to basal insulin for 78 weeks improves glycaemic control with weight loss<br>\n            in insulin-treated type 2 diabetes. Poster presented at 49th Annual Meeting of the European Association for the Study of Diabetes; <br>\n            Sept. 23-27, 2013; Barcelona, Spain.</p>\n        </li>\n        <li> <span>5</span>\n          <p>JARDIANCE [summary of product characteristics]. Ingelheim am Rhein, Germany: Boehringer Ingelheim Pharmaceuticals, GmbH; 2014. </p>\n        </li>\n        <li> <span>6</span>\n          <p>Kim G, Gerich J, Salsali A, et al. Empagliflozin increases genital infections but not urinary tract infections (UTIs) in pooled data from four pivotal phase III trials. Poster presented at 73rd Scientific Session of American Diabetes Association; June 21-25, 2013; Chicago, IL. </p>\n        </li>\n        <li> <span>7</span>\n          <p>Data on File. Boehringer Ingelheim Pharmaceuticals, GmbH; 2014.\n          </p>\n        </li>\n        <li> <span>8</span>\n          <p>DeFronzo RA, Davidson JA, Del Prato S. The role of the kidneys in glucose homeostasis: a new path towards normalizing glycaemia.<br>\n<em> Diabetes Obes Metab.</em> 2012;14:5-14. </p>\n        </li>\n        <li> <span>9</span>\n          <p>Merker L, Lund SS, Hantel S, et al. Abstract on pooled phase III data on target patient sub-group. Presented at 74th Scientific Session of American Diabetes Association; June 13-17, 2014; San Francisco, CA.</p>\n        </li>\n        \n          <li> <span>10</span>\n          <p>Ridderstråle M, Andersen KR, Zeller C, et al. Comparison of empagliflozin and glimepiride as add-on to metformin in patients with type 2 diabetes: a 104-week randomised, active-controlled, double-blind, phase 3 trial. <em>Lancet Diabetes Endocrinol</em>. Published online June 16, 2014. <br>\nhttp://dx.doi.org/10.1016/S2213-8587(14)70120-2.</p>\n        </li>\n          <li> <span>11</span>\n          <p>Ridderstråle M, Andersen KR, Zeller C, et al. Comparison of empagliflozin and glimepiride as add-on to metformin in patients with type 2 <br>\ndiabetes: a 104-week randomised, active-controlled, double-blind, phase 3 trial. <em>Lancet Diabetes Endocrinol</em>. Published online June 16, 2014.<br>\n http://dx.doi.org/10.1016/S2213-8587(14)70120-2.Supplementary Appendix, p1-21.</p>\n        </li>\n         <li> <span>12</span>\n          <p>SYNJARDY [summary of product characteristics]. Ingelheim am Rhein, Germany: Boehringer Ingelheim Pharmaceuticals, GmbH; 2015.</p>\n        </li>\n        \n        <li> <span>13</span>\n          <p>GLUCOPHAGE [summary of product characteristics]. 2001.</p>\n        </li>\n      </ul>\n    </div>",
+			"footer .synjardy-logo a{float:left;width:100%;height:70px;background: url(../images/synjardy-logo.png) no-repeat 0 0;background-size:107px auto;}",
+			"footer .synjardy-logo{position:absolute;left:48px;bottom:0;width:107px;}",
+			"url(../images/active-ref.jpg) no-repeat 14px 1px/100% auto",
+			"header nav ul>li:nth-child(7) a p {\n	padding-top: 6px;\n    padding-left: 10px;\n    text-align: center;\n    width: 110px;\n}",
+			"<li class=\"aditional\">\n            <a href=\"6.6.html\">\n            <img class=\"moa\" src=\"images/6.png\" />\n            <span></span>\n            <p>Additional Information</p>    \n            </a>",
+			"rgb(210,210,210)",
+			"header nav ul>li .content-2 {\n	height: 90px;\n	width: 233px;\n	margin-left: 344px;",
+			"header nav ul > li .content-3 {\n    height: 264px;\n    width: 280px;\n    margin-left: 602px;",
+			"header nav ul>li .content-3 {\n	height:264px;\n	width: 280px;\n	margin-left: 602px;",
+			"header nav ul>li .content-3::before {\n	content: \"\";\n	margin-left: 115px;",
+			"header nav ul > li .content-3::before {\n    content: \"\";\n    margin-left: 115px;",
+			"header nav ul>li .content-3 {\n	height:264px;\n	width: 280px;\n	margin-left: 602px;",
+			"header nav ul>li .content-3::before {\n	content: \"\";\n	margin-left: 115px;",
+			"<li class=\"efficacy\">\n            <a href=\"6.2.html\">",
+			"background-position: 25px -144px; padding-left: 52px;",
+			"background-position: 27px -144px; padding-left: 54px;",
+			"-moz-box-shadow:inset 0 0 10px #7B7B7B;\n   -webkit-box-shadow:inset 0 0 10px #7B7B7B;\n   box-shadow:inset 0 0 10px #7B7B7B;\n",
+			"background-position: 25px -144px;padding-left: 52px;",
+			"    background-position: 25px -144px;\n    padding-left: 52px;",
+			"$(\".openPop\").on(\"click\",function(){\n    var reltag=$(this).attr(\"rel\");\n    console.log(reltag);\n    $(this).addClass('open-active');\n    $( \"#wrapper\" ).append($( \".overlay\" ));\n    $(\".overlay\").fadeIn();\n    $(\"#popup-wrap\").fadeIn();\n    $(\".pop-content\").hide();\n    $(\".pop-content.\"+reltag).show();\n    $(\"header>nav>ul>li\").css(\"pointer-events\",\"none\");\n  });\n  $(\".closebtn\").on(\"click\",function(){\n    $(\".openPop\").removeClass('open-active');\n    $(\".overlay\").fadeOut();\n    $(\"#popup-wrap\").fadeOut();\n     $(\"header>nav>ul>li\").css(\"pointer-events\",\"initial\");\n  });",
+			"veeva:gotoSlide(BI_EMPAJardianceIVA_5.7.zip)",
+			"AstraZeneca Ltd.",
+			"<li><a href=\"veeva:gotoSlide(Respiratory_Idetailer_300615_4.0.zip)\">\n                            <figure class=\"fst\"><img src=\"images/eklira-logo.png\" alt=\"\"></figure>\n                        </a>\n                            <!-- <ul>\n                                <li><a href=\"veeva:gotoSlide(Respiratory_Idetailer_300615_4.0.zip)\">Eklira only</a></li>\n                                <li class=\"childNav\"><a href=\"veeva:gotoSlide(Respiratory_Idetailer_300615_41.5.zip)\">LABA/ICS\n                                    + Eklira</a></li>\n                            </ul> -->\n                        </li>",
+			"$(\".rightNotes ul li a \").on(getEvent(),function (e) {\n	   if($($(this).children()).attr('src')=='images/summary-icon.png'){\n	   		window.location.href = 'veeva:gotoSlide(Respiratory_Idetailer_300615_55.0.zip)'\n	   }\n	   else if($($(this).children()).attr('src')=='images/legal-icon.png'){\n	   		window.location.href = 'veeva:gotoSlide(Respiratory_Idetailer_300615_58.0.zip)'\n	   }\n	   	else{\n	   		e.preventDefault();\n	   		$('.rightNotes ul li').removeClass('tabActive');\n			var activeSlide =1;\n			var activeBox = $(this).attr('rel');\n			$('.ssProfile'+activeSlide+'.'+activeBox).addClass('open');\n			openRef = $('.ssProfile'+activeSlide+'.'+activeBox);\n	   	}\n		\n});",
+			"@font-face {\n	font-family: \"fsalbertbold\";\n	font-style: normal;\n	font-weight: bold;\n	src: url(\"../fonts/fsalbert_bold-webfont.eot?#iefix\") format(\"embedded-opentype\"), url(\"../fonts/fsalbert_bold-webfont.woff2\") format(\"woff2\"), url(\"../fonts/fsalbert_bold-webfont.woff\") format(\"woff\"), url(\"../fonts/fsalbert_bold-webfont.ttf\") format(\"truetype\"), url(\"../fonts/fsalbert_bold-webfont.svg#fsalbertbold\") format(\"svg\");\n}\n@font-face {\n	font-family: \"fsalbertbold\";\n	font-style: italic;\n	font-weight: bold;\n	src: url(\"../fonts/fsalbert-bolditalic-webfont.eot?#iefix\") format(\"embedded-opentype\"), url(\"../fonts/fsalbert-bolditalic-webfont.woff2\") format(\"woff2\"), url(\"../fonts/fsalbert-bolditalic-webfont.woff\") format(\"woff\"), url(\"../fonts/fsalbert-bolditalic-webfont.ttf\") format(\"truetype\"), url(\"../fonts/fsalbert-bolditalic-webfont.svg#fsalbertbold-it\") format(\"svg\");\n}",
+			"@font-face {\n	font-family: \"fs_albertregular\";\n	font-style: normal;\n	font-weight: normal;\n	src: url(\"../fonts/fsalbert-webfont.eot?#iefix\") format(\"embedded-opentype\"), url(\"../fonts/fsalbert-webfont.woff2\") format(\"woff2\"), url(\"../fonts/fsalbert-webfont.woff\") format(\"woff\"), url(\"../fonts/fsalbert-webfont.ttf\") format(\"truetype\"), url(\"../fonts/fsalbert-webfont.svg#fs_albertregular\") format(\"svg\");\n}\n@font-face {\n    font-family: 'fs_albertregular';\n    src: url('../fonts/fsalbert-italic-webfont.eot');\n    src: url('../fonts/fsalbert-italic-webfont.eot?#iefix') format('embedded-opentype'),\n         url('../fonts/fsalbert-italic-webfont.woff2') format('woff2'),\n         url('../fonts/fsalbert-italic-webfont.woff') format('woff'),\n         url('../fonts/fsalbert-italic-webfont.ttf') format('truetype'),\n         url('../fonts/fsalbert-italic-webfont.svg#fs_albertitalic') format('svg');\n    font-weight: normal;\n    font-style: italic;\n\n}",
+			"../fonts/fsalbert-italic-webfont",
+			"@font-face {\n	font-family: \"fsalbertbold-it\";\n	font-style: normal;\n	font-weight: normal;\n	src: url(\"../fonts/fsalbert-bolditalic-webfont.eot?#iefix\") format(\"embedded-opentype\"), url(\"../fonts/fsalbert-bolditalic-webfont.woff2\") format(\"woff2\"), url(\"../fonts/fsalbert-bolditalic-webfont.woff\") format(\"woff\"), url(\"../fonts/fsalbert-bolditalic-webfont.ttf\") format(\"truetype\"), url(\"../fonts/fsalbert-bolditalic-webfont.svg#fsalbertbold-it\") format(\"svg\");\n}@font-face {\n    font-family: 'fs_albertitalic';\n    src: url('fsalbert-italic-webfont.eot');\n    src: url('fsalbert-italic-webfont.eot?#iefix') format('embedded-opentype'),\n         url('fsalbert-italic-webfont.woff2') format('woff2'),\n         url('fsalbert-italic-webfont.woff') format('woff'),\n         url('fsalbert-italic-webfont.ttf') format('truetype'),\n         url('fsalbert-italic-webfont.svg#fs_albertitalic') format('svg');\n    font-weight: normal;\n    font-style: normal;\n\n}",
+			"@font-face {\n	font-family: \"fsalbertbold\";\n	font-style: normal;\n	font-weight: normal;\n	src: url(\"../fonts/fsalbert_bold-webfont.eot?#iefix\") format(\"embedded-opentype\"), url(\"../fonts/fsalbert_bold-webfont.woff2\") format(\"woff2\"), url(\"../fonts/fsalbert_bold-webfont.woff\") format(\"woff\"), url(\"../fonts/fsalbert_bold-webfont.ttf\") format(\"truetype\"), url(\"../fonts/fsalbert_bold-webfont.svg#fsalbertbold\") format(\"svg\");\n}\n@font-face {\n	font-family: \"fsalbertbold-it\";\n	font-style: normal;\n	font-weight: normal;\n	src: url(\"../fonts/fsalbert-bolditalic-webfont.eot?#iefix\") format(\"embedded-opentype\"), url(\"../fonts/fsalbert-bolditalic-webfont.woff2\") format(\"woff2\"), url(\"../fonts/fsalbert-bolditalic-webfont.woff\") format(\"woff\"), url(\"../fonts/fsalbert-bolditalic-webfont.ttf\") format(\"truetype\"), url(\"../fonts/fsalbert-bolditalic-webfont.svg#fsalbertbold-it\") format(\"svg\");\n}",
+			"header nav ul>li.selected a, header nav ul>li.selected22 a",
+			"header nav ul>li.aditional.selected> a, header nav ul>li.aditional.selected22> a",
+			"header nav ul>li.safety.selected> a, header nav ul>li.safety.selected22> a",
+			"header nav ul>li.efficacy.selected> a, header nav ul>li.efficacy.selected22> a",
+			"header nav ul>li.sspatient.selected> a, header nav ul>li.sspatient.selected22> a",
+			"header nav ul>li.ssSummary.selected> a, header nav ul>li.ssSummary.selected22> a",
+			".selected, .selected22 {",
+			"70120-2. Supplementary",
+			"<em>D",
+			"<em>L",
+			"header nav ul>li:nth-child(9) {\n	width: 132px;\n}",
+			"header nav ul>li:nth-child(9) {\n	width: 130px;\n}",
+			"background-position: 23px -144px; padding-left: 50px;",
+			"<a href=\"#\">TOOLBOX</a>",
+			"header.active1000000 nav>ul>li:nth-child(4)> a",
+			"header nav>ul>li:last-child",
+			"background-image: url(../images/sprite-active.png);",
+			"header nav ul>li.selected a{\n    background: url(../images/sprite-active.png) no-repeat;",
+			"width: 98px; padding-left: 17px;",
+			"background-position: 16px -144px; padding-left: 42px;",
+			"<li class=\"aditional\"> <a href=\"6.6.html\">TOOLBOX</a> <span></span> </li>",
+			"background-position: 29px -182px; padding-left: 56px;",
+			"width: 649px;",
+			".inner-wrapper #main-nav ul > li > ul {\n	width: 200px;\n	/*display: none;*/\n	left: 6px;\n	position: absolute; padding-top: 8px;\n}\n.inner-wrapper #main-nav ul > li li > a{background: none !important;}",
+			".inner-wrapper #main-nav ul > li:hover a, .inner-wrapper #main-nav ul > li.active a { color:#ea148c;}\n.inner-wrapper #main-nav ul > li:hover > a, .inner-wrapper #main-nav ul > li.active > a{ font-weight: bold;}",
+			"<script> document.ontouchmove = function(e) {e.preventDefault()};</script></body>",
+			"width: 200px;",
+			"padding-top: 8px;",
+			"	padding-right: 36px;\n	padding-left: 11px;",
+			"<meta name=\"viewport\" content=\"width=device-width,initial-scale=1,user-scalable=no\" />",
+			"	left: -11px;\n	position: absolute;\n	width: 244px;",
+			"left: 6px;\n	position: absolute; top:25px;",
+			".inner-wrapper #main-nav ul > li:hover > a, .inner-wrapper #main-nav ul > li.active > a",
+			".inner-wrapper #main-nav ul > li:hover a, .inner-wrapper #main-nav ul > li.active a { color:#ea148c;}\n.inner-wrapper #main-nav ul > li:hover a, .inner-wrapper #main-nav ul > li.active > a { font-weight: bold;}",
+			".inner-wrapper #main-nav ul > li:hover a, .inner-wrapper #main-nav ul > li.active a { color:#ea148c; font-weight: bold;}",
+			"<img src=\"images/home-logo.png\" alt=\"\" width=\"178\">",
+			"@font-face {\n	font-family: \"fsalbertbold\";\n	font-style: normal;\n	font-weight: bold;",
+			".top-rightBg { padding: 0 18px 0 19px; }",
+			"top: 40px",
+			"        <li class=\"aditional\">\n            <a>",
+			"<div class=\"pop-content references\"><!-- graph or text choise -->\n      <h3>references</h3>\n      <ul>\n        <li> <span>1</span>\n          <p> Roden M, Weng J, Eilbracht J, et al. Empagliflozin monotherapy with sitagliptin as an active comparator in patients with type 2 diabetes: a randomised, double-blind, placebo-controlled, phase 3 trial. <em>Lancet Diabetes Endocrinol</em>. 2013;1:208-219.  </p>\n        </li>\n        <li> <span>2</span>\n          <p>Häring HU, Merker L, Seewaldt-Becker E, et al. Empagliflozin as add-on to metformin in patients with type 2 diabetes: a 24-week, <br>\nrandomized, double-blind, placebo-controlled trial. <em>Diabetes Care</em>. 2014;37:1650-1659.</p>\n        </li>\n        <li> <span>3</span>\n          <p>Häring HU, Merker L, Seewaldt-Becker E, et al. Empagliflozin as add-on to metformin plus sulfonylurea in patients with type 2 diabetes:<br>\n a 24-week, randomized, double-blind, placebo-controlled trial. <em>Diabetes Care</em>. 2013;36:3396-3404. </p>\n        </li>\n        <li> <span>4</span>\n          <p>Rosenstock J, Jelaska A, Kim G, et al. Empagliflozin as add-on to basal insulin for 78 weeks improves glycaemic control with weight loss<br>\n            in insulin-treated type 2 diabetes. Poster presented at 49th Annual Meeting of the European Association for the Study of Diabetes; <br>\n            Sept. 23-27, 2013; Barcelona, Spain.</p>\n        </li>\n        <li> <span>5</span>\n          <p>JARDIANCE [summary of product characteristics]. Ingelheim am Rhein, Germany: Boehringer Ingelheim Pharmaceuticals, GmbH; 2014. </p>\n        </li>\n        <li> <span>6</span>\n          <p>Kim G, Gerich J, Salsali A, et al. Empagliflozin increases genital infections but not urinary tract infections (UTIs) in pooled data from four pivotal phase III trials. Poster presented at 73rd Scientific Session of American Diabetes Association; June 21-25, 2013; Chicago, IL. </p>\n        </li>\n        <li> <span>7</span>\n          <p>Data on File. Boehringer Ingelheim Pharmaceuticals, GmbH; 2014.\n          </p>\n        </li>\n        <li> <span>8</span>\n          <p>DeFronzo RA, Davidson JA, Del Prato S. The role of the kidneys in glucose homeostasis: a new path towards normalizing glycaemia.<br>\n<em> Diabetes Obes Metab.</em> 2012;14:5-14. </p>\n        </li>\n        <li> <span>9</span>\n          <p>Merker L, Lund SS, Hantel S, et al. Abstract on pooled phase III data on target patient sub-group. Presented at 74th Scientific Session of American <em>Diabetes Association</em>; June 13-17, 2014; San Francisco, CA.</p>\n        </li>\n        \n          <li> <span>10</span>\n          <p>Ridderstråle M, Andersen KR, Zeller C, et al. Comparison of empagliflozin and glimepiride as add-on to metformin in patients with type 2 diabetes: a 104-week randomised, active-controlled, double-blind, phase 3 trial. <em>Lancet Diabetes Endocrinol</em>. Published online June 16, 2014. <br>\nhttp://dx.doi.org/10.1016/S2213-8587(14)70120-2.</p>\n        </li>\n          <li> <span>11</span>\n          <p>Ridderstråle M, Andersen KR, Zeller C, et al. Comparison of empagliflozin and glimepiride as add-on to metformin in patients with type 2 <br>\ndiabetes: a 104-week randomised, active-controlled, double-blind, phase 3 trial. <em>Lancet Diabetes Endocrinol</em>. Published online June 16, 2014.<br>\n http://dx.doi.org/10.1016/S2213-8587(14)70120-2. Supplementary Appendix, p1-21.</p>\n        </li>\n         <li> <span>12</span>\n          <p>SYNJARDY [summary of product characteristics]. Ingelheim am Rhein, Germany: Boehringer Ingelheim Pharmaceuticals, GmbH; 2015.</p>\n        </li>\n        \n        <li> <span>13</span>\n          <p>GLUCOPHAGE [summary of product characteristics]. 2001.</p>\n        </li>\n      </ul>\n    </div>",
+			"<a id=\"footer_references\" rel=\"references\" href=\"#\" class=\"openPop\">\n      <p>References</p>",
+			"<li class=\"addedLine-1\">\n                    <a href=\"5.4.html\">\n                        <p>JARDIANCE added to insulin</p>\n                    </a>\n                </li>",
+			"header nav ul>li .content-3 li.addedLine-1{ margin-top:-6px; }\nheader nav ul>li .content-3 li.twLine",
+			"<i>≥</i>1500",
+			"<p>Additional information</p>",
+			"x, p1-",
+			"<p>MOA</p>",
+			"    padding-top: 5px;\n    padding-left: 14px;\n    text-align: center;\n    width: 99%;",
+			"<p>Additional Information</p>",
+			"	top: 18px;",
+			"right: 29px;\ntop: 18px;",
+			"    right: 29px;\n    top: 18px;",
+			"top: -48px;",
+			"top: -78px;",
+			"top: -48px;",
+			"#wrapper #content .cornerTxt:before {\n	content: \"\";\n	background: url(../images/cornerbg.png) no-repeat;\n	background-size: 261px;\n	position: absolute;\n	top: -78px;\n	right: -29px;\n	z-index: -18;\n	width: 261px;\n	height: 125px\n}",
+			"  veeva:gotoSlide(BI_JS_EASD_Combine_0.0.zip, BI_EASD_C)",
+			"<div class=\"synjardy-logo\"> <a href=\"veeva:gotoSlide(BI_JS_EASD_Combine_6.1.zip)\"></a> </div>",
+			"<a href=\"0.0.html\">icon</a>",
+			"<a href=\"0.5.html\">icon</a>",
+			"<a href=\"#\">icon</a>",
+			"",
+			" - <a href=\"http://www.dg-fencing.co.uk/guides/\" title=\"Guides\">Guides</a>",
+			"500"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3637,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1538,
+								1538
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_complete": false,
+							"auto_name": "",
+							"bh_regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/itg.dark (SL).tmTheme",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 432.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "myapp.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 309,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								305,
+								305
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_complete": false,
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"bh_regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/itg.dark (SL).tmTheme",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "css/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1733,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								360,
+								360
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"bh_regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/itg.dark (SL).tmTheme",
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.CSS Extended Completions":
+	{
+		"height": 0.0
+	},
+	"output.clipboard_manager":
+	{
+		"height": 116.0
+	},
+	"output.exec":
+	{
+		"height": 128.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "Front-End-Problem.sublime-project",
+	"replace":
+	{
+		"height": 68.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"t-list",
+				"dev\\demo\\product-list.php"
+			],
+			[
+				"glo",
+				"D:\\www\\formalFunky\\dev\\demo\\js\\glob.js"
+			],
+			[
+				"tes",
+				"lib\\old\\test.html"
+			],
+			[
+				"",
+				"css\\style.scss"
+			],
+			[
+				"gra",
+				"css\\stylesheets\\bootstrap\\mixins\\_gradients.scss"
+			],
+			[
+				"pro-li",
+				"lib\\pro-list.jade"
+			],
+			[
+				"pr",
+				"lib\\pro-list.jade"
+			],
+			[
+				"style.scss",
+				"lib\\css\\style.scss"
+			],
+			[
+				"_gradients.scss",
+				"lib\\css\\stylesheets\\bootstrap\\mixins\\_gradients.scss"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\vipul.sharma\\Desktop\\test-.sublime-project"
+			],
+			[
+				"com",
+				"D:\\projects\\Sales Force\\27th aug 15 -amit\\BI_JS_EASD_Combine\\BI_JS_EASD_Combine.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 400.0,
+		"selected_items":
+		[
+			[
+				"",
+				":after"
+			],
+			[
+				"html",
+				"html"
+			],
+			[
+				"pro-for",
+				".pro-for"
+			],
+			[
+				".p-name",
+				".p-name"
+			],
+			[
+				"small-rating",
+				".small-rating"
+			],
+			[
+				".pro-short-disc",
+				".pro-short-disc"
+			],
+			[
+				".total-rating-review",
+				".total-rating-review"
+			],
+			[
+				"sort-by",
+				".sort-by"
+			],
+			[
+				"item-desc",
+				".item-desc"
+			],
+			[
+				"main2",
+				".main2"
+			],
+			[
+				"srch",
+				".srch-bar"
+			],
+			[
+				".srch-main",
+				".srch-main"
+			],
+			[
+				"shipping-address",
+				"&.shipping-address"
+			],
+			[
+				"qv-popup-container",
+				".qv-popup-container"
+			],
+			[
+				"shake",
+				".shake"
+			],
+			[
+				"srch-main",
+				".srch-main"
+			]
+		],
+		"width": 400.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 237.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

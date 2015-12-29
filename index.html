@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <title>Document</title>
     <script src="js/angular.js"></script>
-    <script src="js/myapp.js"></script>
+    <script src="js/myapp-controller.js"></script>
     <link rel="stylesheet" href="css/style.css">
 </head>
 
@@ -21,9 +21,10 @@
             <button class="sort" ng-click="sortType = 'amount'; sortReverse = !sortReverse" ng-class="{'active':  sortType == 'amount'}">Amount</button>
               <!-- pagination -->
             <div class="pagination">
-            <button>Previous</button>
-            <input type="text" ng-model="allPages"  value="5">
-            <button>Next</button>
+            <button  ng-disabled="curPage == 0"  ng-click="curPage=curPage-1">Previous</button>
+            <span  >Page {{curPage + 1}} of {{ numberOfPages() }}</span>
+            
+            <button ng-disabled="curPage >= allItems.length/pageSize - 1" ng-click="curPage = curPage+1">Next</button>
             </div>
             <!-- pagination end -->
             <div class="filter">
@@ -40,10 +41,13 @@
             <div class="cl"></div>
             <hr>
             <!-- sorting and filter end-->
- Total: {{filtered.length}}
+    <div class="pagesize">
+       Page Size <input type="text" ng-model="pageSize">
+    </div>
 <hr>
             <!-- Product listing-->
-            <li ng-repeat="item in filtered = (items | filter:filterExpr)  | orderBy:sortType:sortReverse | filter:status | limitTo:filtered.length/3">
+            <li ng-repeat="item in allItems = (items | filter:filterExpr) | pagination: curPage * pageSize | orderBy:sortType:sortReverse | filter:status | limitTo:pageSize">
+            <!-- <li ng-repeat="item in items  | orderBy:sortType:sortReverse | filter:status | limitTo:filtered.length/3"> -->
                 <table class="table-fill">
                     <tbody class="table-hover">
                         <tr>
